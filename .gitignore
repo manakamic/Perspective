@@ -403,3 +403,7 @@ FodyWeavers.xsd
 # DX Library
 dxlib/
 dxlib/*
+
+# Rider
+.idea/
+.idea/*

@@ -405,5 +405,5 @@ dxlib/
 dxlib/*
 
 # Rider
-.idea/
-.idea/*
+.idea/.idea.Perspective/.idea/
+.idea/.idea.Perspective/.idea/*
